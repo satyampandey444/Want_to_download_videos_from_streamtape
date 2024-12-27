@@ -17,8 +17,8 @@ This project is a **web scraper** designed to scrape and download videos from *S
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/satyampandey444/streamtape-video-downloader
-cd streamtape-video-downloader
+git clone https://github.com/satyampandey444/Want_to_download_videos_from_streamtape
+cd Want_to_download_videos_from_streamtape
 ```
 
 2. **Create a virtual environment (using pipenv for dependency management):**
